@@ -3,3 +3,5 @@ okay
 
 this rocket has bee repossessed
 why did I foget that spaceship loan
+
+why wont git ignore this file
